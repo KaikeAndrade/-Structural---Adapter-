@@ -1,0 +1,2 @@
+# -Structural---Adapter-
+Método Adapter
